@@ -1,0 +1,42 @@
+body{
+	color:black;
+	background-color:white;
+}
+
+#wrapper{
+	width:1250px;
+  height:1250px;
+	margin:0 auto;
+  background-color:green;
+  padding:5px;
+}
+
+#content_1{
+  position:absolute;
+  top:20px;
+  left:225px;
+  width:250px;
+  height:250px;
+  color:black;
+  background:blue;
+}
+
+#content_2{
+  position:absolute;
+  top:20px;
+  right:225px;
+  width:250px;
+  height:250px;
+  color:black;
+  background:red;
+}
+
+#content_3{
+  position:absolute;
+  top:270px;
+  left:515px;
+  width:250px;
+  height:250px;
+  color:black;
+  background:yellow;
+}

@@ -1,0 +1,29 @@
+body{
+	color:white;
+	background-color:white;
+}
+
+#wrapper{
+	width:1250px;
+	margin:0 auto;
+	background-color:red;
+}
+
+#header{
+	height:50px;
+	text-align:center;
+}
+
+#leftbody{
+	float:left;
+	width:1250px;
+	height: 500px;
+	background-color:green;
+}
+
+#footer{
+  color:white;
+	clear:both;
+  background-color:blue;
+  height:50px;
+}
